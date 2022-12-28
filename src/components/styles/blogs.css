@@ -1,0 +1,16 @@
+.blog {
+    display: flex;
+    justify-content: center;
+}
+
+.blog-idx {
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 60%;
+}
+
+.img-blog {
+    width: 100%;
+}

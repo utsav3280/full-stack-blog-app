@@ -1,0 +1,37 @@
+.create-form-container{
+    background-color: blueviolet;
+    width: 100vw;
+    height: 100vh;
+}
+
+.blog-form{
+    display: flex;
+    justify-content: center;
+}
+
+.form-container{
+    padding: 20px;
+    margin-top: 50px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.input-fields{
+    margin-bottom: 20px;
+    width: 600px;
+    height: 30px;
+}
+
+#description{
+    height: 100px;
+}
+
+#create-post-btn{
+    background-color: rgb(56, 56, 255);
+    color: white;
+    width: 70px;
+    height: 30px;
+    border: 0px;
+    border-radius: 2px;
+}

@@ -1,0 +1,48 @@
+.login-form-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.input-login{
+    width: 350px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.form{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.btn-login{
+    margin-top: 20px;
+    background-color: brown;
+    color: white;
+    border: 0px;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#login-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.greetings-login{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.register-section{
+    display: flex;
+    justify-content: center;
+}
+
+#displayText{
+    color: red;
+}
